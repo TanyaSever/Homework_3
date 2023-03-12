@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\C_Sharp\Homework_3\ThirdTask\bin\Debug\net6.0\ThirdTask.exe
+C:\Users\admin\Documents\C_Sharp\Homework_3\ThirdTask\bin\Debug\net6.0\ThirdTask.deps.json
+C:\Users\admin\Documents\C_Sharp\Homework_3\ThirdTask\bin\Debug\net6.0\ThirdTask.runtimeconfig.json
+C:\Users\admin\Documents\C_Sharp\Homework_3\ThirdTask\bin\Debug\net6.0\ThirdTask.dll
+C:\Users\admin\Documents\C_Sharp\Homework_3\ThirdTask\bin\Debug\net6.0\ThirdTask.pdb
+C:\Users\admin\Documents\C_Sharp\Homework_3\ThirdTask\obj\Debug\net6.0\ThirdTask.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\C_Sharp\Homework_3\ThirdTask\obj\Debug\net6.0\ThirdTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\C_Sharp\Homework_3\ThirdTask\obj\Debug\net6.0\ThirdTask.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\C_Sharp\Homework_3\ThirdTask\obj\Debug\net6.0\ThirdTask.AssemblyInfo.cs
+C:\Users\admin\Documents\C_Sharp\Homework_3\ThirdTask\obj\Debug\net6.0\ThirdTask.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\C_Sharp\Homework_3\ThirdTask\obj\Debug\net6.0\ThirdTask.dll
+C:\Users\admin\Documents\C_Sharp\Homework_3\ThirdTask\obj\Debug\net6.0\refint\ThirdTask.dll
+C:\Users\admin\Documents\C_Sharp\Homework_3\ThirdTask\obj\Debug\net6.0\ThirdTask.pdb
+C:\Users\admin\Documents\C_Sharp\Homework_3\ThirdTask\obj\Debug\net6.0\ThirdTask.genruntimeconfig.cache
+C:\Users\admin\Documents\C_Sharp\Homework_3\ThirdTask\obj\Debug\net6.0\ref\ThirdTask.dll
