@@ -11,7 +11,9 @@ int x4 = numbA % 10;
 void Palindrome(int numbA)
 {
   Console.WriteLine(numbA);
-  if(x0 == x4 && x1 == x3)
+  if(numbA>100000 || numbA < 0)
+  Console.WriteLine("Данное число не подходит, оно отрицательное и/или не пятизначное");
+  else if(x0 == x4 && x1 == x3)
     Console.WriteLine("Это палиндром");
   else
     Console.WriteLine("Это не палиндром");
